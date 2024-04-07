@@ -6,3 +6,7 @@
 	path = Git-Test
 	url = git@github.com:davies-tl/Git-Test.git
 	branch = master
+[submodule "Happy-Easter-"]
+	path = Happy-Easter-
+	url = git@github.com:davies-tl/Happy-Easter-.git
+	branch = master
