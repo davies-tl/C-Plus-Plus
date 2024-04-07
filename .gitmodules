@@ -6,3 +6,7 @@
 	path = Git-Test
 	url = git@github.com:davies-tl/Git-Test.git
 	branch = master
+[submodule "HelloWorld"]
+	path = HelloWorld
+	url = git@github.com:davies-tl/HelloWorld.git
+	branch = master
