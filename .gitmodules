@@ -66,3 +66,7 @@
 	path = VirtualFunction
 	url = git@github.com:davies-tl/VirtualFunction.git
 	branch = master
+[submodule "AbstractClassShape"]
+	path = AbstractClassShape
+	url = git@github.com:davies-tl/AbstractClassShape.git
+	branch = master
