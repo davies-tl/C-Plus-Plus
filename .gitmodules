@@ -98,3 +98,7 @@
 	path = MathStack
 	url = git@github.com:davies-tl/MathStack.git
 	branch = master
+[submodule "ClassDateExceptions"]
+	path = ClassDateExceptions
+	url = git@github.com:davies-tl/ClassDateExceptions.git
+	branch = master
