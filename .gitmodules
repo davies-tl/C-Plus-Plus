@@ -34,3 +34,7 @@
 	path = MonthlyBudget
 	url = git@github.com:davies-tl/MonthlyBudget.git
 	branch = master
+[submodule "MovieData"]
+	path = MovieData
+	url = git@github.com:davies-tl/MovieData.git
+	branch = master
