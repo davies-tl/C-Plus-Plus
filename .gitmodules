@@ -26,3 +26,7 @@
 	path = ClassGrades
 	url = git@github.com:davies-tl/ClassGrades.git
 	branch = master
+[submodule "Weights"]
+	path = Weights
+	url = git@github.com:davies-tl/Weights.git
+	branch = master
