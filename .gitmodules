@@ -18,3 +18,7 @@
 	path = InterestCalculator
 	url = git@github.com:davies-tl/InterestCalculator.git
 	branch = master
+[submodule "EmployeeList"]
+	path = EmployeeList
+	url = git@github.com:davies-tl/EmployeeList.git
+	branch = master
