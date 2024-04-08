@@ -74,3 +74,7 @@
 	path = FractionOverloadedDivision
 	url = git@github.com:davies-tl/FractionOverloadedDivision.git
 	branch = master
+[submodule "NumDays"]
+	path = NumDays
+	url = git@github.com:davies-tl/NumDays.git
+	branch = master
