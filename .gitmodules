@@ -54,3 +54,7 @@
 	path = TestScores
 	url = git@github.com:davies-tl/TestScores.git
 	branch = master
+[submodule "DayOfYear"]
+	path = DayOfYear
+	url = git@github.com:davies-tl/DayOfYear.git
+	branch = master
