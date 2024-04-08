@@ -102,3 +102,7 @@
 	path = ClassDateExceptions
 	url = git@github.com:davies-tl/ClassDateExceptions.git
 	branch = master
+[submodule "IntBinaryTree"]
+	path = IntBinaryTree
+	url = git@github.com:davies-tl/IntBinaryTree.git
+	branch = master
