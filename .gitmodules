@@ -58,3 +58,7 @@
 	path = DayOfYear
 	url = git@github.com:davies-tl/DayOfYear.git
 	branch = master
+[submodule "ProductionWorker"]
+	path = ProductionWorker
+	url = git@github.com:davies-tl/ProductionWorker.git
+	branch = master
