@@ -22,3 +22,7 @@
 	path = EmployeeList
 	url = git@github.com:davies-tl/EmployeeList.git
 	branch = master
+[submodule "ClassGrades"]
+	path = ClassGrades
+	url = git@github.com:davies-tl/ClassGrades.git
+	branch = master
