@@ -14,3 +14,7 @@
 	path = ClassGrade
 	url = git@github.com:davies-tl/ClassGrade.git
 	branch = master
+[submodule "InterestCalculator"]
+	path = InterestCalculator
+	url = git@github.com:davies-tl/InterestCalculator.git
+	branch = master
