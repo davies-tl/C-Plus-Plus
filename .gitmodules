@@ -10,3 +10,7 @@
 	path = Happy-Easter-
 	url = git@github.com:davies-tl/Happy-Easter-.git
 	branch = master
+[submodule "ClassGrade"]
+	path = ClassGrade
+	url = git@github.com:davies-tl/ClassGrade.git
+	branch = master
