@@ -42,3 +42,7 @@
 	path = doSomething
 	url = git@github.com:davies-tl/doSomething.git
 	branch = master
+[submodule "Median"]
+	path = Median
+	url = git@github.com:davies-tl/Median.git
+	branch = master
