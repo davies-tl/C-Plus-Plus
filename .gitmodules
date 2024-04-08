@@ -70,3 +70,7 @@
 	path = AbstractClassShape
 	url = git@github.com:davies-tl/AbstractClassShape.git
 	branch = master
+[submodule "FractionOverloadedDivision"]
+	path = FractionOverloadedDivision
+	url = git@github.com:davies-tl/FractionOverloadedDivision.git
+	branch = master
