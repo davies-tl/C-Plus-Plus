@@ -86,3 +86,7 @@
 	path = BalancedParentheses
 	url = git@github.com:davies-tl/BalancedParentheses.git
 	branch = master
+[submodule "IntStack"]
+	path = IntStack
+	url = git@github.com:davies-tl/IntStack.git
+	branch = master
