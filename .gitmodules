@@ -50,3 +50,7 @@
 	path = MortgagePayment
 	url = git@github.com:davies-tl/MortgagePayment.git
 	branch = master
+[submodule "TestScores"]
+	path = TestScores
+	url = git@github.com:davies-tl/TestScores.git
+	branch = master
