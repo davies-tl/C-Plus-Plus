@@ -38,3 +38,7 @@
 	path = MovieData
 	url = git@github.com:davies-tl/MovieData.git
 	branch = master
+[submodule "doSomething"]
+	path = doSomething
+	url = git@github.com:davies-tl/doSomething.git
+	branch = master
