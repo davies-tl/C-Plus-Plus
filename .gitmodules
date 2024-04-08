@@ -30,3 +30,7 @@
 	path = Weights
 	url = git@github.com:davies-tl/Weights.git
 	branch = master
+[submodule "MonthlyBudget"]
+	path = MonthlyBudget
+	url = git@github.com:davies-tl/MonthlyBudget.git
+	branch = master
