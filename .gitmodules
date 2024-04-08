@@ -94,3 +94,7 @@
 	path = InventoryStack
 	url = git@github.com:davies-tl/InventoryStack.git
 	branch = master
+[submodule "MathStack"]
+	path = MathStack
+	url = git@github.com:davies-tl/MathStack.git
+	branch = master
