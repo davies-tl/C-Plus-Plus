@@ -46,3 +46,7 @@
 	path = Median
 	url = git@github.com:davies-tl/Median.git
 	branch = master
+[submodule "MortgagePayment"]
+	path = MortgagePayment
+	url = git@github.com:davies-tl/MortgagePayment.git
+	branch = master
