@@ -110,3 +110,7 @@
 	path = TestScoresThrowException
 	url = git@github.com:davies-tl/TestScoresThrowException.git
 	branch = master
+[submodule "Palindrome"]
+	path = Palindrome
+	url = git@github.com:davies-tl/Palindrome.git
+	branch = master
