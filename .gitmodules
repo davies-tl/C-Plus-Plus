@@ -106,3 +106,7 @@
 	path = IntBinaryTree
 	url = git@github.com:davies-tl/IntBinaryTree.git
 	branch = master
+[submodule "TestScoresThrowException"]
+	path = TestScoresThrowException
+	url = git@github.com:davies-tl/TestScoresThrowException.git
+	branch = master
