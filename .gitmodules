@@ -82,3 +82,7 @@
 	path = LinkList
 	url = git@github.com:davies-tl/LinkList.git
 	branch = master
+[submodule "BalancedParentheses"]
+	path = BalancedParentheses
+	url = git@github.com:davies-tl/BalancedParentheses.git
+	branch = master
