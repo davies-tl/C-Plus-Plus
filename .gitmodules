@@ -62,3 +62,7 @@
 	path = ProductionWorker
 	url = git@github.com:davies-tl/ProductionWorker.git
 	branch = master
+[submodule "VirtualFunction"]
+	path = VirtualFunction
+	url = git@github.com:davies-tl/VirtualFunction.git
+	branch = master
