@@ -90,3 +90,7 @@
 	path = IntStack
 	url = git@github.com:davies-tl/IntStack.git
 	branch = master
+[submodule "InventoryStack"]
+	path = InventoryStack
+	url = git@github.com:davies-tl/InventoryStack.git
+	branch = master
