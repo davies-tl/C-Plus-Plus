@@ -78,3 +78,7 @@
 	path = NumDays
 	url = git@github.com:davies-tl/NumDays.git
 	branch = master
+[submodule "LinkList"]
+	path = LinkList
+	url = git@github.com:davies-tl/LinkList.git
+	branch = master
