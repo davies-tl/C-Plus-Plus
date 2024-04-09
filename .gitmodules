@@ -114,3 +114,7 @@
 	path = AbstractClassShape
 	url = git@github.com:davies-tl/AbstractClassShape.git
 	branch = master
+[submodule "BalancedParentheses"]
+	path = BalancedParentheses
+	url = git@github.com:davies-tl/BalancedParentheses.git
+	branch = master
