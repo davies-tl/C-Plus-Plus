@@ -1,120 +1,125 @@
+# Submodules updated 04/09/2024
+#
+[submodule "AbstractClassShape"]
+        path = AbstractClassShape
+        url = git@github.com:davies-tl/AbstractClassShape.git
+        branch = master
+[submodule "BalancedParentheses"]
+        path = BalancedParentheses
+        url = git@github.com:davies-tl/BalancedParentheses.git
+        branch = master
+[submodule "ClassDateExceptions"]
+        path = ClassDateExceptions
+        url = git@github.com:davies-tl/ClassDateExceptions.git
+        branch = master
+[submodule "ClassGrade"]
+        path = ClassGrade
+        url = git@github.com:davies-tl/ClassGrade.git
+        branch = master
+[submodule "ClassGrades"]
+        path = ClassGrades
+        url = git@github.com:davies-tl/ClassGrades.git
+        branch = master
+[submodule "ConvertToUppercase"]
+        path = ConvertToUppercase
+        url = git@github.com:davies-tl/ConvertToUppercase.git
+        branch = master
+[submodule "DayOfYear"]
+        path = DayOfYear
+        url = git@github.com:davies-tl/DayOfYear.git
+        branch = master
+[submodule "EmployeeList"]
+        path = EmployeeList
+        url = git@github.com:davies-tl/EmployeeList.git
+        branch = master
+[submodule "FractionOverloadedDivision"]
+        path = FractionOverloadedDivision
+        url = git@github.com:davies-tl/FractionOverloadedDivision.git
+        branch = master
+[submodule "Git-Test"]
+        path = Git-Test
+        url = git@github.com:davies-tl/Git-Test.git
+        branch = master
+[submodule "Happy-Easter"]
+        path = Happy-Easter
+        url = git@github.com:davies-tl/Happy-Easter.git
+        branch = master
 [submodule "HelloWorld"]
 	path = HelloWorld
 	url = git@github.com:davies-tl/HelloWorld.git
 	branch = master
-[submodule "Git-Test"]
-	path = Git-Test
-	url = git@github.com:davies-tl/Git-Test.git
-	branch = master
-[submodule "Happy-Easter"]
-	path = Happy-Easter
-	url = git@github.com:davies-tl/Happy-Easter.git
-	branch = master
-[submodule "ClassGrade"]
-	path = ClassGrade
-	url = git@github.com:davies-tl/ClassGrade.git
-	branch = master
+[submodule "IntBinaryTree"]
+        path = IntBinaryTree
+        url = git@github.com:davies-tl/IntBinaryTree.git
+        branch = master
+[submodule "IntStack"]
+        path = IntStack
+        url = git@github.com:davies-tl/IntStack.git
+        branch = master
 [submodule "InterestCalculator"]
 	path = InterestCalculator
 	url = git@github.com:davies-tl/InterestCalculator.git
 	branch = master
-[submodule "EmployeeList"]
-	path = EmployeeList
-	url = git@github.com:davies-tl/EmployeeList.git
-	branch = master
-[submodule "ClassGrades"]
-	path = ClassGrades
-	url = git@github.com:davies-tl/ClassGrades.git
-	branch = master
-[submodule "Weights"]
-	path = Weights
-	url = git@github.com:davies-tl/Weights.git
-	branch = master
-[submodule "MonthlyBudget"]
-	path = MonthlyBudget
-	url = git@github.com:davies-tl/MonthlyBudget.git
-	branch = master
-[submodule "MovieData"]
-	path = MovieData
-	url = git@github.com:davies-tl/MovieData.git
-	branch = master
-[submodule "doSomething"]
-	path = doSomething
-	url = git@github.com:davies-tl/doSomething.git
-	branch = master
-[submodule "Median"]
-	path = Median
-	url = git@github.com:davies-tl/Median.git
-	branch = master
-[submodule "MortgagePayment"]
-	path = MortgagePayment
-	url = git@github.com:davies-tl/MortgagePayment.git
-	branch = master
-[submodule "TestScores"]
-	path = TestScores
-	url = git@github.com:davies-tl/TestScores.git
-	branch = master
-[submodule "DayOfYear"]
-	path = DayOfYear
-	url = git@github.com:davies-tl/DayOfYear.git
-	branch = master
-[submodule "ProductionWorker"]
-	path = ProductionWorker
-	url = git@github.com:davies-tl/ProductionWorker.git
-	branch = master
-[submodule "VirtualFunction"]
-	path = VirtualFunction
-	url = git@github.com:davies-tl/VirtualFunction.git
-	branch = master
-[submodule "FractionOverloadedDivision"]
-	path = FractionOverloadedDivision
-	url = git@github.com:davies-tl/FractionOverloadedDivision.git
-	branch = master
-[submodule "NumDays"]
-	path = NumDays
-	url = git@github.com:davies-tl/NumDays.git
-	branch = master
-[submodule "LinkList"]
-	path = LinkList
-	url = git@github.com:davies-tl/LinkList.git
-	branch = master
-[submodule "IntStack"]
-	path = IntStack
-	url = git@github.com:davies-tl/IntStack.git
-	branch = master
 [submodule "InventoryStack"]
-	path = InventoryStack
-	url = git@github.com:davies-tl/InventoryStack.git
-	branch = master
+        path = InventoryStack
+        url = git@github.com:davies-tl/InventoryStack.git
+        branch = master
+[submodule "LinkList"]
+        path = LinkList
+        url = git@github.com:davies-tl/LinkList.git
+        branch = master
 [submodule "MathStack"]
-	path = MathStack
-	url = git@github.com:davies-tl/MathStack.git
-	branch = master
-[submodule "ClassDateExceptions"]
-	path = ClassDateExceptions
-	url = git@github.com:davies-tl/ClassDateExceptions.git
-	branch = master
-[submodule "IntBinaryTree"]
-	path = IntBinaryTree
-	url = git@github.com:davies-tl/IntBinaryTree.git
-	branch = master
-[submodule "TestScoresThrowException"]
-	path = TestScoresThrowException
-	url = git@github.com:davies-tl/TestScoresThrowException.git
-	branch = master
+        path = MathStack
+        url = git@github.com:davies-tl/MathStack.git
+        branch = master
+[submodule "Median"]
+        path = Median
+        url = git@github.com:davies-tl/Median.git
+        branch = master
+[submodule "MonthlyBudget"]
+        path = MonthlyBudget
+        url = git@github.com:davies-tl/MonthlyBudget.git
+        branch = master
+[submodule "MortgagePayment"]
+        path = MortgagePayment
+        url = git@github.com:davies-tl/MortgagePayment.git
+        branch = master
+[submodule "MovieData"]
+        path = MovieData
+        url = git@github.com:davies-tl/MovieData.git
+        branch = master
+[submodule "NumDays"]
+        path = NumDays
+        url = git@github.com:davies-tl/NumDays.git
+        branch = master
 [submodule "Palindrome"]
-	path = Palindrome
-	url = git@github.com:davies-tl/Palindrome.git
+        path = Palindrome
+        url = git@github.com:davies-tl/Palindrome.git
+        branch = master
+[submodule "ProductionWorker"]
+        path = ProductionWorker
+        url = git@github.com:davies-tl/ProductionWorker.git
+        branch = master
+[submodule "TestScores"]
+        path = TestScores
+        url = git@github.com:davies-tl/TestScores.git
+        branch = master
+[submodule "TestScoresThrowException"]
+        path = TestScoresThrowException
+        url = git@github.com:davies-tl/TestScoresThrowException.git
+        branch = master
+[submodule "VirtualFunction"]
+        path = VirtualFunction
+        url = git@github.com:davies-tl/VirtualFunction.git
+        branch = master
+[submodule "Weights"]
+        path = Weights
+        url = git@github.com:davies-tl/Weights.git
+        branch = master
+[submodule "doSomething"]
+        path = doSomething
+        url = git@github.com:davies-tl/doSomething.git
 	branch = master
-[submodule "ConvertToUppercase"]
-	path = ConvertToUppercase
-	url = git@github.com:davies-tl/ConvertToUppercase.git
-	branch = master
-[submodule "AbstractClassShape"]
-	path = AbstractClassShape
-	url = git@github.com:davies-tl/AbstractClassShape.git
-	branch = master
-[submodule "BalancedParentheses"]
-	path = BalancedParentheses
-	url = git@github.com:davies-tl/BalancedParentheses.git
-	branch = master
+#
+# New submodules will appear below.
+#
