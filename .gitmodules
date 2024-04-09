@@ -114,3 +114,7 @@
 	path = Palindrome
 	url = git@github.com:davies-tl/Palindrome.git
 	branch = master
+[submodule "ConvertToUppercase"]
+	path = ConvertToUppercase
+	url = git@github.com:davies-tl/ConvertToUppercase.git
+	branch = master
