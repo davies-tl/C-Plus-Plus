@@ -114,3 +114,7 @@
 	path = ConvertToUppercase
 	url = git@github.com:davies-tl/ConvertToUppercase.git
 	branch = master
+[submodule "AbstractClassShape"]
+	path = AbstractClassShape
+	url = git@github.com:davies-tl/AbstractClassShape.git
+	branch = master
